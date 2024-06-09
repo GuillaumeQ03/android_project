@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id" />
+    <item name="searchEditText" type="id" />
+    <item name="populationTextView" type="id" />
+    <item name="timezoneTextView" type="id" />
+    <item name="googleMapsLinkTextView" type="id" />
+</resources>
